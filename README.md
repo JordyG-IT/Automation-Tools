@@ -8,8 +8,8 @@ A collection of functional PowerShell automation tools, scripts, and administrat
 * **`Powershell/Audit/`** — System auditing and inventory tools.
 * **`Powershell/Configuration/`** — Endpoint configuration and system-policy automation.
 * **`Powershell/Deployment/`** — Application and software deployment automation.
-* **`Powershell/Log_Ingestion/`** — Automation for collecting and processing operational log data.
-* **`Powershell/Remediation/`** — Automated remediation for common endpoint issues.
+* **`Powershell/Log_Ingestion/`** — For collecting and processing operational log data.
+* **`Powershell/Remediation/`** — Remediation for common endpoint issues.
 
 ## Examples
 
